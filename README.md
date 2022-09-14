@@ -1,5 +1,5 @@
 # SQL_Exercises
-Training Queris to fortify my knowledge
+Training Queries to fortify my knowledge
 
 
 Some channels that probably I will repeat questions:
